@@ -1,0 +1,9 @@
+E:\mazhar\WindowsFormCRUD\WindowsFormCRUD\bin\Debug\WindowsFormCRUD.exe.config
+E:\mazhar\WindowsFormCRUD\WindowsFormCRUD\bin\Debug\WindowsFormCRUD.exe
+E:\mazhar\WindowsFormCRUD\WindowsFormCRUD\bin\Debug\WindowsFormCRUD.pdb
+E:\mazhar\WindowsFormCRUD\WindowsFormCRUD\obj\Debug\WindowsFormCRUD.csprojResolveAssemblyReference.cache
+E:\mazhar\WindowsFormCRUD\WindowsFormCRUD\obj\Debug\WindowsFormCRUD.Form1.resources
+E:\mazhar\WindowsFormCRUD\WindowsFormCRUD\obj\Debug\WindowsFormCRUD.Properties.Resources.resources
+E:\mazhar\WindowsFormCRUD\WindowsFormCRUD\obj\Debug\WindowsFormCRUD.csproj.GenerateResource.Cache
+E:\mazhar\WindowsFormCRUD\WindowsFormCRUD\obj\Debug\WindowsFormCRUD.exe
+E:\mazhar\WindowsFormCRUD\WindowsFormCRUD\obj\Debug\WindowsFormCRUD.pdb
